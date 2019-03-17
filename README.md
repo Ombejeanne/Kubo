@@ -1,7 +1,7 @@
 # Kubo
-Cube de led
+![Cube de led]{IMG_2198.jpg}
 
-# Materiel utilisé : 
+# Matériel utilisé : 
 
 -Leds rgb
 
