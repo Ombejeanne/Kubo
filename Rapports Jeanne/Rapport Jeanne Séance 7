@@ -1,7 +1,0 @@
-Aujourd'hui nous n'avons encore pas réussi à régler le problème de la semaine dernière. 
-Nous avons donc pris le cour pour avancer dans la constrution du cube. 
-Nous en sommes à la quatrième face et nous penssons que le rectangle 5x8x8 sera terminé pour lundi prochain.
-Nous allons continuer à chercher un moyen de résoudre notre problème et ainsi faire fonctionner la fonction heure de notre projet.
-J'ai peur que notre projet ne fonctionne pas le jour j car à chaque réutilisation des faces, nous sommes obligés de ressouder à certains endroits.
-Si cela se produit au centre du cube alors qu'il est entièrement monté, il sera alors difficile de le réparer. 
-De même si une soudure lâche et qu'une face tombe sur une autre alors que le cube est en marche, cela risque de causer un court-circuit et de faire exploser des led comme nous l'avons déjà expérimenté.
