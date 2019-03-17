@@ -1,5 +1,4 @@
 # Kubo
-! [Cube de led]{IMG_2198.jpg}
 
 # Matériel utilisé : 
 
